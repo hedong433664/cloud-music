@@ -42,6 +42,7 @@ export default defineConfig(({ mode, command }) => {
         },
       },
     },
+    base: './',
     server: {
       port: Number(ENV.VITE_APP_PORT),
       host: '0.0.0.0',
