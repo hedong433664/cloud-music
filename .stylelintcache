@@ -1,0 +1,75 @@
+[
+    [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    {
+        "key": "6",
+        "value": "7"
+    },
+    {
+        "key": "8",
+        "value": "9"
+    },
+    {
+        "key": "10",
+        "value": "11"
+    },
+    {
+        "key": "12",
+        "value": "13"
+    },
+    {
+        "key": "14",
+        "value": "15"
+    },
+    "D:\\Desktop\\work\\my-project\\cloud-music\\src\\styles\\reset.scss",
+    {
+        "size": 527,
+        "mtime": 1762397770585,
+        "data": "16"
+    },
+    "D:\\Desktop\\work\\my-project\\cloud-music\\src\\styles\\element\\index.scss",
+    {
+        "size": 172,
+        "mtime": 1752657337563,
+        "data": "17"
+    },
+    "D:\\Desktop\\work\\my-project\\cloud-music\\src\\views\\index.vue",
+    {
+        "size": 294,
+        "mtime": 1762397770664,
+        "data": "18"
+    },
+    "D:\\Desktop\\work\\my-project\\cloud-music\\src\\styles\\index.scss",
+    {
+        "size": 303,
+        "mtime": 1762397770586,
+        "data": "19"
+    },
+    "D:\\Desktop\\work\\my-project\\cloud-music\\src\\App.vue",
+    {
+        "size": 269,
+        "mtime": 1762396799460,
+        "data": "20"
+    },
+    {
+        "hashOfConfig": "21"
+    },
+    {
+        "hashOfConfig": "21"
+    },
+    {
+        "hashOfConfig": "21"
+    },
+    {
+        "hashOfConfig": "21"
+    },
+    {
+        "hashOfConfig": "21"
+    },
+    "ru0gpm"
+]
