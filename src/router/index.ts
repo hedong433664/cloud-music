@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Layout from '@/layout/index.vue'
 
 import type { RouteRecordRaw } from 'vue-router'
@@ -66,7 +66,7 @@ export const staticRoutes: RouteRecordRaw[] = [
 
 const router = createRouter({
   // 使用 Vite 的 base 配置
-  history: createWebHistory(import.meta.env.VITE_BASE_URL),
+  history: createWebHashHistory(),
   routes: staticRoutes,
 })
 
